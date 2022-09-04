@@ -1,2 +1,1 @@
-# Hesap-Makinesi
- Html,Css ve JavaScript  ile birlikte hesap makinasi yapildi.
+# Calculator wit Html, Css and Javascript.
