@@ -1,1 +1,1 @@
-# Calculator wit Html, Css and Javascript.
+# Calculator with Html, Css and Javascript.
