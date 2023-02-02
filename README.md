@@ -1,2 +1,3 @@
-# Hesap-Makinesi
- Html,Css ve JavaScript  ile birlikte hesap makinasi yapildi.
+# Calculator with Html, Css and Javascript.
+
+https://gifted-roentgen-f4c7de.netlify.app/
